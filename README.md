@@ -1,5 +1,5 @@
 <h1 align="center">print("Hello world") 👋, I'm Lucas Quiroga Llanos</h1>
-<h3 align="center">a passionate mobile IOS and web developer full stack Java. I am a peruvian programmer 🇵🇪</h3>
+<h3 align="center">a passionate mobile IOS and web developer full stack Java. I'm a peruvian programmer 🇵🇪</h3>
 
 - 🔭 I’m currently working at [Cubicol as a Jr php web programmer](https://www.cubicol.pe/)
 
