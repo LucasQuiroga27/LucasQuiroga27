@@ -1,9 +1,9 @@
 <h1 align="center">print("Hello world") 👋, I'm Lucas Quiroga Llanos</h1>
-<h3 align="center">a passionate mobile IOS and web developer full stack Java. I'm a peruvian programmer 🇵🇪</h3>
+<h3 align="center">Passionate about iOS app development. I'm a Peruvian programmer.🇵🇪</h3>
 
-- 🔭 I’m currently working at [Cubicol as a Jr php web programmer](https://www.cubicol.pe/)
+- 🔭 I currently work as an iOS Application Systems Engineer
 
-- 🌱 I’m currently learning **swiftUI and UIKit**
+- 🌱 I’m currently learning **SwiftUI and UIKit**
 
 - 🤝 I’m looking to collaborate in **mobile development projects ios**
 
